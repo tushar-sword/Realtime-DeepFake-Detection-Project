@@ -1,16 +1,16 @@
-��# Real-Time Deepfake Detection in Live Video Calls
+# Real-Time Deepfake Detection in Live Video Calls
 
-A real-time deepfake detection system integrated directly into a live video calling pipeline. 
-
----
-
-## =��� Presentation
-
-[REAL TIME DEEPFAKE DETECTOR   PPT](https://github.com/user-attachments/files/25665241/REAL.TIME.DEEPFAKE.DETECTOR.pdf)
+A real-time deepfake detection system integrated directly into a live video calling pipeline.
 
 ---
 
-## <إ� Demo Video
+## 📊 Presentation
+
+[REAL TIME DEEPFAKE DETECTOR – PPT](https://github.com/user-attachments/files/25665241/REAL.TIME.DEEPFAKE.DETECTOR.pdf)
+
+---
+
+## 🎥 Demo Video
 
 [Watch Demo Video](https://github.com/user-attachments/assets/8ab9f2f8-3551-411e-b248-e2d01c37713a)
 
@@ -54,18 +54,18 @@ The associated research paper has been **accepted for publication** and is curre
 
 ### Video Calling Infrastructure
 
-- Node.js   Backend server
-- WebSockets   Real-time communication
+- Node.js — Backend server
+- WebSockets — Real-time communication
 
 ### Deepfake Detection Model
 
-- PyTorch   Model training and inference
-- NumPy   Data preprocessing
-- Flask   Inference API server
+- PyTorch — Model training and inference
+- NumPy — Data preprocessing
+- Flask — Inference API server
 
 ### Adversarial Testing Layer
 
-- Face-swapping / SWAP-based techniques   Real-time deepfake simulation
+- Face-swapping / SWAP-based techniques — Real-time deepfake simulation
 
 ---
 
